@@ -17,6 +17,9 @@ Vascular lesion
 
 Sample images of Dataset
 ![image](https://github.com/manjushaunnikrishnan21/Melanoma_Detection_Assignment/assets/151642222/b852ef44-4b80-4936-83ab-19de21061add)
+
+
+
 Analysis of Dataset :
 *   Accuracy on training data is increased by using Augmentor library
 *   Anaylsis of the data model is overfitting
